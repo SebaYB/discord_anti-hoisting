@@ -1,2 +1,2 @@
 # discord_anti-hoisting
-Discord Anti-Hoisting doing by ChatGPT.
+Discord Anti-Hoisting done by ChatGPT.
